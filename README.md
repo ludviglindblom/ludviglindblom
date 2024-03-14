@@ -8,7 +8,7 @@ Currently, I am the Technical Director at [Frank fam](https://frankfam.co/), a f
 
 # 🔗 Links
 
-[Threads](https://www.threads.net/@internuts) - [Bluesky](https://bsky.app/profile/l33t.se) - [LinkedIn](https://se.linkedin.com/in/ludviglindblom) - [GitHub](https://github.com/ludviglindblom) - [CodePen](https://codepen.io/ludviglindblom) - [CSS Battle](https://cssbattle.dev/player/ludvig)
+[Threads](https://www.threads.net/@internuts) - [Bluesky](https://bsky.app/profile/l33t.se) - [LinkedIn](https://se.linkedin.com/in/ludviglindblom) - [GitHub](https://github.com/ludviglindblom) - [CodePen](https://codepen.io/ludviglindblom) - [CSS Battle](https://cssbattle.dev/player/ludvig) - [L33t.se](https://l33t.se/) - [Ludvig Lindblom](https://ludviglindblom.com/)
 
 # 💻 Tech stack
 
