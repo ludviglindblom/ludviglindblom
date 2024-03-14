@@ -17,3 +17,4 @@ Currently, I am the Technical Director at [Frank fam](https://frankfam.co/), a f
 ![JavaScript](https://img.shields.io/badge/javascript-%23666666?style=for-the-badge&logo=javascript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Contentful](https://img.shields.io/badge/contentful-%230b6ae6?style=for-the-badge&logo=contentful&logoColor=white)
