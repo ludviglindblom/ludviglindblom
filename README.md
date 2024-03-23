@@ -4,7 +4,7 @@ I'm a senior front-end developer and creative technologist specializing in UI de
 
 I published my first site back in early 1994 - making it [one of the first 5000 websites](https://www.internetlivestats.com/total-number-of-websites/)!
 
-Currently, I am the Technical Director at [Frank fam](https://frankfam.co/), a full-service creative agency in Stockholm, Sweden.
+Currently, I am Head of Technology at [Frank fam](https://frankfam.co/), a full-service creative agency in Stockholm, Sweden.
 
 # 🔗 Links
 
