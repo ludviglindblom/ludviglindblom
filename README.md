@@ -4,8 +4,6 @@ I'm a senior front-end developer and creative technologist specializing in UI de
 
 I published my first site back in early 1994 - making it [one of the first 5000 websites](https://www.internetlivestats.com/total-number-of-websites/)!
 
-Currently, I am a Technology Advisor at [Forefront Ignite](https://www.forefrontignite.com/), an innovation hub and part of the Forefront Group in Stockholm, Sweden.
-
 # 🔗 Links
 
 [Threads](https://www.threads.net/@internuts) - [Bluesky](https://bsky.app/profile/l33t.se) - [LinkedIn](https://se.linkedin.com/in/ludviglindblom) - [GitHub](https://github.com/ludviglindblom) - [CodePen](https://codepen.io/ludviglindblom) - [CSS Battle](https://cssbattle.dev/player/ludvig) - [L33t.se](https://l33t.se/) - [Ludvig Lindblom](https://ludviglindblom.com/)
@@ -58,5 +56,7 @@ Currently, I am a Technology Advisor at [Forefront Ignite](https://www.forefront
 ![Gulp](https://img.shields.io/badge/gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Grunt](https://img.shields.io/badge/grunt-%23FAA918?style=for-the-badge&logo=grunt&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-%23412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/claude_code-%23FAF9F5?style=for-the-badge&logo=claude&logoColor=%23d97757&color=%23faf9f5)
+![Cursor](https://img.shields.io/badge/cursor-%23F7F7F7?style=for-the-badge&logo=cursor&logoColor=%23141414&color=%23f7f7f7)
 ![Storybook](https://img.shields.io/badge/storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
